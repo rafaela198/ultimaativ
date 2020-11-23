@@ -1,0 +1,27 @@
+{
+  "lang":"pt-BR",
+  "dir":"ltr",
+  "name":"TecNotícias",
+  "short_name":"TN",
+  "star_url":"https://github.com/rafaela198/atividade-final",
+  "display":"minimal-ui",
+  "scope":"/atividade-final",
+  "background_color":"",
+  "theme_color":"",
+  "orientation":"portrait",
+  "descripition":"Site de Notícias",
+  "icons":[
+    {
+      "src":"icons/icons2";
+      "sizes":"192x192";
+      "type":"icons/jpg";
+    },
+
+    {
+      "src":"icons/favicon";
+      "sizes":"512x512";
+      "type":"icons/png";
+    },
+
+  ]
+}
