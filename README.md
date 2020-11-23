@@ -2,6 +2,7 @@
 Esse projeto é um site de notícias sobre tecnologias, uma página inicial contém anúncio das notícias e o usuário seleciona qual deseja acessar, além do menu que está presente em todas as páginas.
 
 ## Link de acesso
+ https://rafaela198.github.io/ultimaativ/ .
 
 ### Tecnologias Utilizadas
 
