@@ -12,15 +12,15 @@
   "descripition":"Site de Notícias",
   "icons":[
     {
-      "src":"icons/icons2";
-      "sizes":"192x192";
-      "type":"icons/jpg";
+      "src":"icons/icons2",
+      "sizes":"192x192",
+      "type":"icons/jpg",
     },
 
     {
-      "src":"icons/favicon";
-      "sizes":"512x512";
-      "type":"icons/png";
+      "src":"icons/favicon",
+      "sizes":"512x512",
+      "type":"icons/png",
     },
     "related_applications":[],
     "prefer_related_applications": false,
