@@ -10,19 +10,20 @@
   "theme_color":"",
   "orientation":"portrait",
   "descripition":"Site de Notícias",
+  "related_applications":[],
+  "prefer_related_applications": false,
   "icons":[
     {
       "src":"icons/icons2",
       "sizes":"192x192",
-      "type":"icons/jpg",
+      "type":"icons/jpg"
     },
 
     {
       "src":"icons/favicon",
       "sizes":"512x512",
-      "type":"icons/png",
-    },
-    "related_applications":[],
-    "prefer_related_applications": false,
+      "type":"icons/png"
+    }
+
   ]
 }
