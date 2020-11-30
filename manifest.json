@@ -26,8 +26,13 @@
       "sizes":"192x192",
       "type":"icon/png",
       "density": "1.00"
+    },
+    {
+      "src":"icon/favicon3",
+      "sizes":"144x144",
+      "type":"icon/png",
+      "density": "1.00"
     }
-
 
 
   ]
