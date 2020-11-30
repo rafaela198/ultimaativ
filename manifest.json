@@ -18,12 +18,14 @@
     {
       "src":"icon/favicon",
       "sizes":"512x512",
-      "type":"icon/png"
+      "type":"icon/png",
+      "density": "0.75"
     },
     {
       "src":"icon/favicon2",
       "sizes":"192x192",
-      "type":"icon/png"
+      "type":"icon/png",
+      "density": "1.00"
     }
 
 
