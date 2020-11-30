@@ -1,4 +1,4 @@
-const cacheName = "Tecnoticias"
+const cacheName = "Tecnoticias1"
 const files = [
   '/ultimaativ/',
   '/ultimaativ/index.html',
@@ -23,6 +23,16 @@ self.addEventListener('install', function(evt) {
 
 self.addEventListener('activate', function(evt) {
   console.log("activate sw");
+  evt.waitUntil(
+  caches.keys().then(function (keys) {
+    return Promise.all(
+      keys
+      .filter(key => key !== cacheName)
+      .map(key => caches.delete(key))
+    )
+
+  })
+  )
 })
 
 
