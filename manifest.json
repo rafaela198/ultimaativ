@@ -16,12 +16,12 @@
   "icons":[
 
     {
-      "src":"icons/favicon",
+      "src":"icon/favicon",
       "sizes":"512x512",
       "type":"icons/png"
     },
     {
-      "src":"icons/icons2",
+      "src":"icon/icons2",
       "sizes":"192x192",
       "type":"icons/jpg"
     }
