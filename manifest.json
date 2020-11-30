@@ -9,6 +9,7 @@
   "background_color":"rgb(255, 40, 100)",
   "theme_color":"#FFE4E1",
   "orientation":"portrait",
+  
   "descripition":"Site de Notícias",
   "related_applications":[],
   "prefer_related_applications": false,
