@@ -6,6 +6,7 @@ self.addEventListener('activate', function(evt) {
   console.log("activate sw");
 })
 
+
 self.addEventListener('fetch', function(evt) {
   console.log("fetch sw");
 })
