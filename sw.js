@@ -10,7 +10,7 @@ const files = [
 ]
 
 self.addEventListener('install', function(evt) {
-
+    console.log("install sw");
   evt.waitUntil(
     caches.open(cacheName).then(function (cache) {
     console.log('colocando arquivos na cache');
@@ -27,4 +27,9 @@ self.addEventListener('activate', function(evt) {
 
 self.addEventListener('fetch', function(evt) {
   console.log("fetch sw");
+  evt.responseWith(
+    caches.match(evt.request). then(function(res){
+      return res || fetch(evt.request)
+    })
+  )
 })
