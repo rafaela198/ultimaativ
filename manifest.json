@@ -18,12 +18,12 @@
     {
       "src":"icon/favicon",
       "sizes":"512x512",
-      "type":"icons/png"
+      "type":"icon/png"
     },
     {
       "src":"icon/icons2",
       "sizes":"192x192",
-      "type":"icons/jpg"
+      "type":"icon/jpg"
     }
 
 
