@@ -17,13 +17,13 @@
 
     {
       "src":"icon/favicon",
-      "sizes":"512x512",
+      "sizes":"512x512px",
       "type":"icon/png",
       "density": "0.75"
     },
     {
       "src":"icon/favicon2",
-      "sizes":"192x192",
+      "sizes":"192x192px",
       "type":"icon/png",
       "density": "1.00"
     }
