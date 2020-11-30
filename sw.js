@@ -1,12 +1,13 @@
 const cacheName = "Tecnoticias"
 const files = [
   '/ultimaativ/',
-  '/ultimaativ/index.html'
-  '/ultimaativ/style.css'
+  '/ultimaativ/index.html',
+  '/ultimaativ/style.css'.
   'https://www.techtudo.com.br/noticias/2020/05/nokia-festeja-155-anos-relembre-os-celulares-mais-marcantes.ghtml',
   'https://www.nsctotal.com.br/noticias/a-tecnologia-durante-tempos-de-pandemia',
   'https://canaltech.com.br/apps/app-google-modo-escuro-android-ios-165079/',
-  'https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css'
+  'https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css',
+  '/ultimaativ/script.js',
 ]
 
 self.addEventListener('install', function(evt) {
