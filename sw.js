@@ -2,7 +2,7 @@ const cacheName = "Tecnoticias1"
 const files = [
   '/ultimaativ/',
   '/ultimaativ/index.html',
-  '/ultimaativ/style.css'.
+  '/ultimaativ/style.css',
   'https://www.techtudo.com.br/noticias/2020/05/nokia-festeja-155-anos-relembre-os-celulares-mais-marcantes.ghtml',
   'https://www.nsctotal.com.br/noticias/a-tecnologia-durante-tempos-de-pandemia',
   'https://canaltech.com.br/apps/app-google-modo-escuro-android-ios-165079/',

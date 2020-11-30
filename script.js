@@ -2,7 +2,7 @@ function shareImage (titulo, texto, url){
   if(navigator.share){
     navigator.share({
       title: titulo,
-      text: texto.
+      text: texto,
       url: url,
     })
     .then(() => console.log('Successful share'))
