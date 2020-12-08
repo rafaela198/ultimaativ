@@ -8,6 +8,10 @@ const files = [
   'https://canaltech.com.br/apps/app-google-modo-escuro-android-ios-165079/',
   'https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css',
   '/ultimaativ/script.js',
+  'https://code.jquery.com/jquery-3.2.1.slim.min.js',
+  'https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js',
+  'https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js',
+
 ]
 
 self.addEventListener('install', function(evt) {
