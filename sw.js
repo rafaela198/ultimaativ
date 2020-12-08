@@ -42,8 +42,8 @@ self.addEventListener('activate', function(evt) {
 
 self.addEventListener('fetch', function(evt) {
   console.log("fetch sw");
-  evt.responseWith(
-    caches.match(evt.request). then(function(res){
+  evt.respondWith(
+  caches.match(evt.request).then(function(res){
       return res || fetch(evt.request)
     })
   )
