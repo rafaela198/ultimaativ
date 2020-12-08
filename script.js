@@ -5,7 +5,7 @@ function shareImage (titulo, texto, url){
       text: texto,
       url: url,
     })
-    .then(() => console.log('Successful share'));
-    .catch((error) => console.log('Error sharing',error));
+    .then(() => console.log('Successful share'))
+    .catch((error) => console.log('Error sharing',error))
   }
 }
