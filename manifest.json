@@ -3,37 +3,30 @@
   "dir":"ltr",
   "name":"TecNotícias",
   "short_name":"TN",
-  "star_url":" https://rafaela198.github.io/ultimaativ/ ",
-  "display":"minimal-ui",
+  "start_url":"https://rafaela198.github.io/ultimaativ/",
+  "display":"standalone",
   "scope":"/ultimaativ/",
   "background_color":"#FF2864",
   "theme_color":"#FFE4E1",
   "orientation":"portrait",
-
   "descripition":"Site de Notícias",
   "related_applications":[],
   "prefer_related_applications": false,
   "icons":[
-
     {
-      "src":"icon/favicon",
+      "src":"icon/favicon.png",
       "sizes":"512x512",
-      "type":"icon/png",
-      "density": "0.75"
+      "type":"icon/png"
     },
     {
-      "src":"icon/favicon2",
+      "src":"icon/favicon2.png",
       "sizes":"192x192",
-      "type":"icon/png",
-      "density": "1.00"
+      "type":"icon/png"
     },
     {
-      "src":"icon/favicon3",
+      "src":"icon/favicon3.png",
       "sizes":"144x144",
-      "type":"icon/png",
-      "density": "1.00"
+      "type":"icon/png"
     }
-
-
   ]
 }
